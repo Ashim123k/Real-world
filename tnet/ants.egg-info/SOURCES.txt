@@ -1,0 +1,7 @@
+setup.py
+ants.egg-info/PKG-INFO
+ants.egg-info/SOURCES.txt
+ants.egg-info/dependency_links.txt
+ants.egg-info/entry_points.txt
+ants.egg-info/requires.txt
+ants.egg-info/top_level.txt
